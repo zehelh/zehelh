@@ -17,6 +17,8 @@
 
 Data Engineer & développeur web fullstack.
 
+- 🏢 Fondateur de [**Nukléos**](https://nukleos.fr/)
+- 🌐 Portfolio : [**yvanbrl.me**](https://yvanbrl.me/)
 - 🔭 Actuellement sur des projets **data / big data** et du **fullstack**
 - 🧠 Passionné par l'**IA** & le **machine learning** (PyTorch, XGBoost, fine-tuning…)
 - 🐧 Passionné de **Linux** & de l'**open source** — **CachyOS** au quotidien
@@ -35,6 +37,12 @@ Data Engineer & développeur web fullstack.
 | Refroidissement  | Montech HyperFlow RGB 360 mm AIO White |
 | Écran principal  | Gigabyte M28U — 3840×2160, 31", 144 Hz |
 | Écran secondaire | Acer XB241H — 1920×1080, 24", 144 Hz   |
+
+### 📱 Téléphone
+
+**Pixel 7 Pro** · **GrapheneOS**
+
+> *La vie privée, ce n'est pas un mode caché — c'est la config de base.*
 
 ---
 
